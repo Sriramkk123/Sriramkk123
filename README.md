@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sriramkk123" alt="Sriramkk123" /></a> </p>
 
-- 💬 Ask me about **Spring Boot and Node**
+- 💬 Ask me about **React, Spring Boot and Node**
 
 - 📫 How to reach me **sriramkk999@gmail.com**
 
