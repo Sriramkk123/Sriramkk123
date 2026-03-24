@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramkk123&label=Profile%20views&color=0e75b6&style=flat" alt="Sriramkk123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sriramkk123" alt="Sriramkk123" /></a> </p>
-Sriram KK
 
 **Senior Consultant & Backend Engineer**
 Distributed Systems • AI • Agentic Applications
