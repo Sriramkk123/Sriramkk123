@@ -31,6 +31,37 @@ AI-first across the board - I use LLM-assisted workflows for architecture decisi
 
 ---
 
+### Experience
+
+**Beskar Technologies**
+
+*Senior Consultant · Apr 2025 – Present*
+
+- Architected a multi-tenant CMS for an EdTech client supporting hierarchical organisations (Districts, Schools, Learners) with structured content authoring and role-based access control.
+- Built full-text search across 100K+ content items using PostgreSQL GIN trigram indexes (pg_trgm), achieving sub-200ms response times with zero query-layer changes.
+- Integrated AWS Cognito authentication, analytics dashboards, and CSV/Excel exports serving all tenant roles end-to-end.
+- Built an end-to-end ELT pipeline for a RegTech client combining web scraping, Dagster orchestration and Elasticsearch indexing - enabling fast, searchable access to external datasets.
+- Designed a Dagster-powered operations dashboard with real-time visibility into job statuses, schedules and run history with parameterised on-demand triggering for non-technical users.
+- Driving engineering best practices — code review standards, testing culture and observability adoption - across the consulting team.
+
+*Junior Associate · Sep 2021 – Jun 2025*
+
+- Built production microservices for a high-throughput AI generation platform in Go and Python, including distributed job queuing, model routing and agentic prompt chaining pipelines.
+- Scaled backend infrastructure to handle 2.5M+ monthly generations, achieving 100× year-over-year growth through performance profiling and horizontal scaling on AWS.
+- Spearheaded CI/CD pipeline implementation and integration testing, significantly reducing production defects across distributed services.
+- Developed a 0-to-1 digital signature system for a Quality Management client, streamlining document collaboration, signing and compliance workflows for external users.
+- Designed and deployed a centralised observability stack (logs, metrics, distributed traces) across 10+ microservices using Grafana, Prometheus, Loki and Tempo - reducing mean time to debug.
+- Built an Android application and Java backend for a consumer-facing crypto platform, including integration with external wallet infrastructure for secure transaction flows.
+- Designed and delivered technical bootcamps for various companies on OOP, TDD, Clean Code, Agile, JS, ReactJS, Kotlin & Design patterns.
+
+---
+
+**Kuliza Technologies** · *Intern · Feb 2021 – Jul 2021*
+
+- Developed a keyword-based threat detection system to proactively identify admin policy violations.
+
+---
+
 ### Stack
 
 **Languages**
