@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramkk123&label=Profile%20views&color=0e75b6&style=flat" alt="Sriramkk123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sriramkk123" alt="Sriramkk123" /></a> </p>
-# Sriram KK
+Sriram KK
 
 **Senior Consultant & Backend Engineer**
 Distributed Systems • AI • Agentic Applications
@@ -68,6 +68,7 @@ I write about distributed systems, AI and engineering on Substack.
 
 🌐 [sriramkk.in](https://sriramkk.in) &nbsp;·&nbsp; 💼 [linkedin.com/in/sriramkk916](https://linkedin.com/in/sriramkk916) &nbsp;·&nbsp; ✍️ [sriramkk.substack.com](https://sriramkk.substack.com)
 
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriramkk123&show_icons=true&locale=en&layout=compact" alt="sriramkk123" /></p>
 
